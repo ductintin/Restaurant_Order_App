@@ -107,6 +107,12 @@
     <Compile Include="GUI\FrmDatBan.Designer.cs">
       <DependentUpon>FrmDatBan.cs</DependentUpon>
     </Compile>
+    <Compile Include="GUI\FrmHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmHoaDon.Designer.cs">
+      <DependentUpon>FrmHoaDon.cs</DependentUpon>
+    </Compile>
     <Compile Include="GUI\FrmKhachHang.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -137,6 +143,12 @@
     <Compile Include="GUI\FrmTaiKhoan.Designer.cs">
       <DependentUpon>FrmTaiKhoan.cs</DependentUpon>
     </Compile>
+    <Compile Include="GUI\FrmThongTinDatBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmThongTinDatBan.Designer.cs">
+      <DependentUpon>FrmThongTinDatBan.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -147,6 +159,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\FrmDatBan.resx">
       <DependentUpon>FrmDatBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmHoaDon.resx">
+      <DependentUpon>FrmHoaDon.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\FrmKhachHang.resx">
       <DependentUpon>FrmKhachHang.cs</DependentUpon>
@@ -162,6 +177,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\FrmTaiKhoan.resx">
       <DependentUpon>FrmTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmThongTinDatBan.resx">
+      <DependentUpon>FrmThongTinDatBan.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

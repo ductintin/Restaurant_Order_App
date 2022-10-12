@@ -9,3 +9,10 @@ D:\HQT_CSDL\Project_DBMS\Restaurant_Order_App\Restaurant_Order_App\obj\Debug\Res
 D:\HQT_CSDL\Project_DBMS\Restaurant_Order_App\Restaurant_Order_App\obj\Debug\Restaurant_Order_App.csproj.CoreCompileInputs.cache
 D:\HQT_CSDL\Project_DBMS\Restaurant_Order_App\Restaurant_Order_App\obj\Debug\Restaurant_Order_App.exe
 D:\HQT_CSDL\Project_DBMS\Restaurant_Order_App\Restaurant_Order_App\obj\Debug\Restaurant_Order_App.pdb
+D:\HQT_CSDL\Project_DBMS\Restaurant_Order_App\Restaurant_Order_App\obj\Debug\Restaurant_Order_App.GUI.FrmDangNhap.resources
+D:\HQT_CSDL\Project_DBMS\Restaurant_Order_App\Restaurant_Order_App\obj\Debug\Restaurant_Order_App.GUI.FrmDatBan.resources
+D:\HQT_CSDL\Project_DBMS\Restaurant_Order_App\Restaurant_Order_App\obj\Debug\Restaurant_Order_App.GUI.FrmKhachHang.resources
+D:\HQT_CSDL\Project_DBMS\Restaurant_Order_App\Restaurant_Order_App\obj\Debug\Restaurant_Order_App.GUI.FrmMenu.resources
+D:\HQT_CSDL\Project_DBMS\Restaurant_Order_App\Restaurant_Order_App\obj\Debug\Restaurant_Order_App.GUI.FrmNhanVien.resources
+D:\HQT_CSDL\Project_DBMS\Restaurant_Order_App\Restaurant_Order_App\obj\Debug\Restaurant_Order_App.GUI.FrmQuanLy.resources
+D:\HQT_CSDL\Project_DBMS\Restaurant_Order_App\Restaurant_Order_App\obj\Debug\Restaurant_Order_App.GUI.FrmTaiKhoan.resources

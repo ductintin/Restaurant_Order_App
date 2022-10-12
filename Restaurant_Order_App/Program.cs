@@ -1,4 +1,5 @@
 ﻿using Restaurant_Order_App.Connection;
+using Restaurant_Order_App.GUI;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,10 +18,10 @@ namespace Restaurant_Order_App
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Connect connect = new Connect();
+            /*Connect connect = new Connect();
             connect.getConnect();
-            MessageBox.Show("Hello");
-            Application.Run(new Form1());
+            MessageBox.Show("Hello");*/
+            Application.Run(new FrmKhachHang());
 
             
         }

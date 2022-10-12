@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Restaurant_Order_App.DAO
 {
-    internal class NhanVienDAO
+    public class NhanVienBUS
     {
     }
 }
